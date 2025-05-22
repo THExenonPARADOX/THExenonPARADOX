@@ -10,3 +10,9 @@
 THExenonPARADOX/THExenonPARADOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+📘 [Read about my academic background – BSc Mathematics & Physics](./Background-and-Certifications/Undergraduate.md)
+🛠️ [Professional Journey – From Admin to Analyst](./Background-and-Certifications/Career-Start.md)
+
